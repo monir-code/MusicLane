@@ -23,8 +23,6 @@
 
         <header class="row">
 
-	    	
-
 	    	  
         </header>
 
